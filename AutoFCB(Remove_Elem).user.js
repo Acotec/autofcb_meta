@@ -9,6 +9,6 @@
 // @require      https://github.com/Acotec/require/raw/master/waitForKeyElements.min.js
 // @include      *auto*/dashboard*
 // @run-at       document-start
+// @require      https://github.com/Acotec/autofcb_script/raw/master/AutoFCB(Remove_Elem).user.js
 // ==/UserScript==
-// @rquire      https://github.com/Acotec/autofcb_script/raw/master/AutoFCB(Remove_Elem).user.js
 (function() {})();

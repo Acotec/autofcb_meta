@@ -10,6 +10,6 @@
 // @match        *://*/*
 // @grant        unsafeWindow
 // @run-at       document-start
-// ==/UserScript==
 // @require      https://github.com/Acotec/autofcb_script/raw/master/AutoFCB(UrlReplace).user.js
+// ==/UserScript==
 (function() {})();

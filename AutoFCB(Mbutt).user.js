@@ -12,6 +12,6 @@
 // @grant        GM_setClipboard
 // @grant        window.close
 // @require      http://code.jquery.com/jquery-3.5.1.min.js
-// ==/UserScript==
 // @require      https://github.com/Acotec/autofcb_script/raw/master/AutoFCB(Mbutt).user.js
+// ==/UserScript==
 (function () {})();

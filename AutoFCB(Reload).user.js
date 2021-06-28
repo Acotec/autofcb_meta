@@ -7,6 +7,6 @@
 // @updateURL    https://github.com/Acotec/autofcb_meta/raw/master/AutoFCB(Reload).user.js
 // @downloadURL  https://github.com/Acotec/autofcb_meta/raw/master/AutoFCB(Reload).user.js
 // @include      *autobitco*/dashboard/shortlinks/visited*
+// @require      https://github.com/Acotec/autofcb_script/raw/master/AutoFCB(Reload).user.js
 // ==/UserScript==
-// @rquire       https://github.com/Acotec/autofcb_script/raw/master/AutoFCB(Reload).user.js
 (function() {})();

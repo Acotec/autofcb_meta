@@ -10,6 +10,6 @@
 // @run-at       document-idle
 // @require      https://github.com/Acotec/require/raw/master/waitForKeyElements.min.js
 // @require      http://code.jquery.com/jquery-3.5.1.min.js
-// ==/UserScript==
 // @require      https://github.com/Acotec/autofcb_script/raw/master/AutoFCB(NextClicker).user.js
+// ==/UserScript==
 (function() {})();

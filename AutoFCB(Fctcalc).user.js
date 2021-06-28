@@ -9,6 +9,6 @@
 // @include      *auto*/dashboard/shortlinks
 // @grant        none
 // @run-at       document.idle
-// ==/UserScript==
 // @require      https://github.com/Acotec/autofcb_script/raw/master/AutoFCB(Fctcalc).user.js
+// ==/UserScript==
 (function() {})();
