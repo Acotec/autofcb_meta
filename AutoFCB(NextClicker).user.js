@@ -4,8 +4,8 @@
 // @version      1.6.4
 // @description  Auto click next button on shortlink sites.
 // @author       Acotec
-// @updateURL    https://github.com/Acotec/autofcb/raw/master/AutoFCB(NextClicker).user.js
-// @downloadURL  https://github.com/Acotec/autofcb/raw/master/AutoFCB(NextClicker).user.js
+// @updateURL    https://github.com/Acotec/autofcb_meta/raw/master/AutoFCB(NextClicker).user.js
+// @downloadURL  https://github.com/Acotec/autofcb_meta/raw/master/AutoFCB(NextClicker).user.js
 // @match        *://*/*
 // @run-at       document-idle
 // @require      https://github.com/Acotec/require/raw/master/waitForKeyElements.min.js

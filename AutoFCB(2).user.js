@@ -4,8 +4,8 @@
 // @version      2.1.8
 // @description  AutomateButtons
 // @author       Acotec
-// @updateURL    https://github.com/Acotec/autofcb/raw/master/AutoFCB(2).user.js
-// @downloadURL  https://github.com/Acotec/autofcb/raw/master/AutoFCB(2).user.js
+// @updateURL    https://github.com/Acotec/autofcb_meta/raw/master/AutoFCB(2).user.js
+// @downloadURL  https://github.com/Acotec/autofcb_meta/raw/master/AutoFCB(2).user.js
 // @require      http://code.jquery.com/jquery-3.5.1.min.js
 // @resource     _DontOpen https://github.com/Acotec/resources/raw/master/_DontOpen.txt
 // @include      *auto*/shortlinks

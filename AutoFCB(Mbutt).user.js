@@ -4,8 +4,8 @@
 // @version      0.7.11
 // @description  Open Remain buttons after Auto(FCB) is run , (optional)
 // @author       Acotec
-// @updateURL    https://github.com/Acotec/autofcb/raw/master/AutoFCB(Mbutt).user.js
-// @downloadURL  https://github.com/Acotec/autofcb/raw/master/AutoFCB(Mbutt).user.js
+// @updateURL    https://github.com/Acotec/autofcb_meta/raw/master/AutoFCB(Mbutt).user.js
+// @downloadURL  https://github.com/Acotec/autofcb_meta/raw/master/AutoFCB(Mbutt).user.js
 // @include      *auto*/shortlinks
 // @grant        GM_setValue
 // @grant        GM_getValue
