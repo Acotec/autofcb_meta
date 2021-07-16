@@ -7,8 +7,8 @@
 // @include     *auto*.*
 // @run-at      document-end
 // @require     https://github.com/Acotec/require/raw/master/waitForKeyElements.min.js
+// @require     https://github.com/Acotec/autofcb_script/raw/master/Solve_Media.user.js
 // @resource    _phrases https://github.com/Acotec/resources/raw/master/_phrases.txt
-// @homepageURL https://eugenox.appspot.com/script/solvedmedia
 // @updateURL   https://github.com/Acotec/autofcb_meta/raw/master/Solve_Media.user.js
 // @downloadURL https://github.com/Acotec/autofcb_meta/raw/master/Solve_Media.user.js
 // @grant       GM_getResourceText
