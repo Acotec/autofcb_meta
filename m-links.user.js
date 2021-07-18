@@ -2,7 +2,6 @@
 // @author       yuumari dev
 // @copyright    2021+, yuumari dev (https://yuumari.com/)
 // @description  this script will allows you to exchange url automatically.
-// @version      1.52
 // @icon         https://yuumari.com/images/icon-userscript-64.png
 // @license      MIT; https://opensource.org/licenses/MIT
 // @match        *://*/*
