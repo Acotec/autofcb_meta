@@ -10,6 +10,7 @@
 // @grant        GM_addElement
 // @grant        GM_setValue
 // @grant        GM_getValue
+// @grant        GM_notification
 // @grant        window.close
 // @run-at       document-start
 // @require      https://github.com/Acotec/autofcb_script/raw/master/AutoFCB(ReloadShortlinkPage).user.js
