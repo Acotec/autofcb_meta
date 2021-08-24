@@ -15,4 +15,4 @@
 // @run-at       document-start
 // @require      https://github.com/Acotec/autofcb_script/raw/master/AutoFCB(ReloadShortlinkPage).user.js
 // ==/UserScript==
-(function()})();
+(function(){})();
