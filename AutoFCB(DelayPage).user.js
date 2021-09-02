@@ -6,7 +6,7 @@
 // @author       Acotec
 // @updateURL    https://github.com/Acotec/autofcb_meta/raw/master/AutoFCB(DelayPage).user.js
 // @downloadURL  https://github.com/Acotec/autofcb_meta/raw/master/AutoFCB(DelayPage).user.js
-// @resource     delaypage https://github.com/Acotec/resources/raw/master/delaypage.txt
+// @resource     delaypage https://gist.githubusercontent.com/Harfho/d4805d8a56793fa59d47e464c6eec243/raw/delaypage.txt
 // @match        *://*/*
 // @grant        GM_getResourceText
 // @grant        window.close
