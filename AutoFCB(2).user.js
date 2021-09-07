@@ -9,7 +9,7 @@
 //// @require      http://code.jquery.com/jquery-3.5.1.min.js
 // @connect      gist.github.com
 // @connect      gist.githubusercontent.com
-//// @resource     _DontOpen https://gist.githubusercontent.com/Harfho/d4805d8a56793fa59d47e464c6eec243/raw/_DontOpen.txt
+// @resource     _DontOpen https://gist.githubusercontent.com/Harfho/d4805d8a56793fa59d47e464c6eec243/raw/_DontOpen.txt
 // @include      *auto*/shortlinks
 // @noframes
 // @grant        GM_setValue
