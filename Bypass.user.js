@@ -13,7 +13,7 @@
 // @grant        window.close
 // @grant        GM_setClipboard
 // @grant        GM_notification
-// @grant        GM_xmlhttpRequest
+// @grant        GM.xmlhttpRequest
 // @grant        GM_getResourceText
 // @run-at       document-start
 // @connect      api.yuumari.com
