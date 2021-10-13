@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Faucetpay(transfer)
-// @description  Make Transfer easy by filling the required forms automatically
+// @description  Make Transfer from faucetPay easy by filling the required forms automatically
+// @version      0.1.2
 // @author       Acotec
 // @include      *faucetpay.io/page/user-admin*
 // @include      *faucetpay.io/transfer*
@@ -10,5 +11,6 @@
 // @require      https://github.com/Acotec/autofcb_script/raw/master/Faucetpay(transfer).user.js
 // @grant        GM_setValue
 // @grant        GM_getValue
+// @grant        GM_notification
 // ==/UserScript==
 (function(){})();
