@@ -11,6 +11,7 @@
 // @connect      gist.githubusercontent.com
 // @resource     _DontOpen https://gist.githubusercontent.com/Harfho/d4805d8a56793fa59d47e464c6eec243/raw/_DontOpen.txt
 // @include      *auto*/shortlinks
+// @include      *auto*/shortlinks?*
 // @noframes
 // @grant        GM_setValue
 // @grant        GM_getValue
