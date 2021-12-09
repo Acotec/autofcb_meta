@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Bypass
 // @namespace    https://github.com/Acotec/autofcb
-// @version      0.1.4
+// @version      0.1.5
 // @description  Bypass URL links
 // @author       Acotec
 // @updateURL    https://github.com/Acotec/autofcb_meta/raw/master/Bypass.user.js
@@ -13,10 +13,13 @@
 // @grant        window.close
 // @grant        GM_setClipboard
 // @grant        GM_notification
-// @grant        GM.xmlHttpRequest
+// @grant        GM_xmlhttpRequest
 // @grant        GM_getResourceText
 // @run-at       document-start
 // @connect      api.yuumari.com
+// @connect      github.com
+// @connect      gist.github.com
+// @connect      gist.githubusercontent.com
 // @require      https://github.com/Acotec/autofcb_script/raw/master/Bypass.user.js
 // ==/UserScript==
 (function(){})();
