@@ -9,6 +9,7 @@
 // @match        *://*/*
 // @include      *
 // @resource     key https://gist.githubusercontent.com/Harfho/d4805d8a56793fa59d47e464c6eec243/raw/keyEncode.txt
+// @resource     delaypage https://gist.githubusercontent.com/Harfho/d4805d8a56793fa59d47e464c6eec243/raw/delaypage.txt
 // @icon         https://yuumari.com/images/laycat.png
 // @grant        GM_setValue
 // @grant        GM_getValue
@@ -25,6 +26,5 @@
 // @connect      gist.github.com
 // @connect      gist.githubusercontent.com
 // @noframes
-// @require      https://github.com/Acotec/autofcb_script/raw/master/Bypass.user.js
 // ==/UserScript==
 (function(){})();
