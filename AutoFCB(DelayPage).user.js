@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AutoFCB(DelayPage)
 // @namespace    https://github.com/Acotec/autofcb
-// @version      0.7.21
+// @version      0.7.22
 // @description  Delay some shortlink page loading time
 // @author       Acotec
 // @updateURL    https://github.com/Acotec/autofcb_meta/raw/master/AutoFCB(DelayPage).user.js
