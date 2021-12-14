@@ -2,7 +2,7 @@
 // @name         ALBypass
 // @namespace    https://github.com/Acotec/autofcb
 // @version      0.1.6
-// @description  Bypass URL links
+// @description  Bypass shortlinks
 // @author       Acotec
 // @updateURL    https://github.com/Acotec/autofcb_meta/raw/master/ALBypass.user.js
 // @downloadURL  https://github.com/Acotec/autofcb_meta/raw/master/ALBypass.user.js
@@ -13,7 +13,6 @@
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        window.close
-// @grant        GM_setClipboard
 // @grant        GM_notification
 // @grant        GM_xmlhttpRequest
 // @grant        GM_getResourceText
