@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ALBypass
 // @namespace    https://github.com/Acotec/autofcb
-// @version      0.1.8
+// @version      0.2.0
 // @description  Bypass URL links
 // @author       Acotec
 // @updateURL    https://github.com/Acotec/autofcb_meta/raw/master/ALBypass.user.js
@@ -18,6 +18,7 @@
 // @grant        GM_xmlhttpRequest
 // @grant        GM_getResourceText
 // @grant        GM_registerMenuCommand
+// @grant        GM_addElement
 // @run-at       document-idle
 // @run-at       document-start
 // @connect      api.yuumari.com
@@ -27,5 +28,6 @@
 // @connect      gist.githubusercontent.com
 // @connect      emailjs.com
 // @noframes
-// @require      https://github.com/Acotec/autofcb_script/raw/master/ALBypass.user.js
+// @nocompat    Chrome
+// @require     https://github.com/Acotec/autofcb_script/raw/master/ALBypass.user.js
 // ==/UserScript==
