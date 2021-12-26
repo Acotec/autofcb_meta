@@ -1,18 +1,27 @@
 // ==UserScript==
 // @name        Solved_Media
-// @version     0.3
+// @version     0.4
 // @namespace   https://github.com/Acotec/autofcb
 // @description Autocompletion for Solve Media image CAPTCHAs.
 // @author      Acotec
 // @license     MIT
-// @include     *auto*.*
-// @run-at      document-end
-// @require     https://github.com/Acotec/require/raw/master/waitForKeyElements.min.js
-// @require     https://github.com/Acotec/autofcb_script/raw/master/Solve_Media.user.js
-// @resource    _phrases https://gist.githubusercontent.com/Harfho/d4805d8a56793fa59d47e464c6eec243/raw/_phrases.txt
+// @include     *
+// @match       *api-secure.solvemedia.com*
 // @updateURL   https://github.com/Acotec/autofcb_meta/raw/master/Solve_Media.user.js
 // @downloadURL https://github.com/Acotec/autofcb_meta/raw/master/Solve_Media.user.js
-// @grant       GM_getResourceText
+// @require      https://greasyfork.org/scripts/37236-monkeyconfig/code/MonkeyConfig.js
+// @require      https://cdn.jsdelivr.net/npm/tesseract.js@2/dist/tesseract.min.js
+// @run-at       document-end
+// @grant        GM_Config
+// @grant        GM_getValue
+// @grant        GM_setValue
+// @grant        GM_deleteValue
+// @grant        GM_addStyle
+// @grant        GM_registerMenuCommand
+// @grant        GM_getResourceText
+// @grant        GM_xmlhttpRequest
+// @connect      githubusercontent.com
+// @connect      github.com
+// @connect
+//// @require     https://github.com/Acotec/autofcb_script/raw/master/Solve_Media.user.js
 // ==/UserScript==
-
-(function(){ })();
