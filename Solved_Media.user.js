@@ -23,5 +23,5 @@
 // @connect      githubusercontent.com
 // @connect      github.com
 // @connect
-//// @require     https://github.com/Acotec/autofcb_script/raw/master/Solve_Media.user.js
+// @require     https://github.com/Acotec/autofcb_script/raw/master/Solve_Media.user.js
 // ==/UserScript==
