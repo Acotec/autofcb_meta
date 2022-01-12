@@ -21,6 +21,6 @@
 // @grant        unsafeWindow
 // @grant        window.close
 // @grant        GM_xmlhttpRequest
-//// @require      https://github.com/Acotec/autofcb_script/raw/master/AutoFCB(2).user.js
+// @require      https://github.com/Acotec/autofcb_script/raw/master/AutoFCB(2).user.js
 // ==/UserScript==
 (function() {})();
