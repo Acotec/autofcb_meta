@@ -9,6 +9,8 @@
 // @match        *://*/recaptcha/*
 // @connect      engageub.pythonanywhere.com
 // @connect      engageub1.pythonanywhere.com
+// @connect      herhavzindabah.pythonanywhere.com
+// @connect      akbaloguzhan33.pythonanywhere.com
 // @grant        GM_xmlhttpRequest
 // @require      https://github.com/Acotec/autofcb_script/raw/master/Recaptcha.user.js
 // ==/UserScript==
